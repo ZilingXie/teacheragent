@@ -8,7 +8,7 @@ To install the project dependencies, run the following command:
 
 ```bash
 npm install
-
+```
 # Project File Structure
 
 This document explains the file structure of the Teacher Agent project.
